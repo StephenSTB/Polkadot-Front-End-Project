@@ -1,1 +1,1 @@
-View live page at [StephenSTB.github.io]
+View live page at https://StephenSTB.github.io
